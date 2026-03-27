@@ -76,11 +76,11 @@ export function patch_currencyNames() {
     let altNames = fetchParams();
 
     CONFIG.DND5E.currencies = {
-        "pp": altNames["ppAlt"],
-        "gp": altNames["gpAlt"],
-        "ep": altNames["epAlt"],
-        "sp": altNames["spAlt"],
-        "cp": altNames["cpAlt"]
+        pp: { label: altNames["ppAlt"], abbreviation: altNames["ppAltAbrv"] },
+        gp: { label: altNames["gpAlt"], abbreviation: altNames["gpAltAbrv"] },
+        ep: { label: altNames["epAlt"], abbreviation: altNames["epAltAbrv"] },
+        sp: { label: altNames["spAlt"], abbreviation: altNames["spAltAbrv"] },
+        cp: { label: altNames["cpAlt"], abbreviation: altNames["cpAltAbrv"] }
     };
 }
 
