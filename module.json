@@ -34,7 +34,7 @@
       }
     ]
   },
-  "url": "https://github.com/ktrieun/FVTT-5e-custom-currency",
-  "manifest": "https://raw.githubusercontent.com/TheArcaneWarloc/foundryvtt-5e-custom-currency/FVTT-5e-custom-currency/module.json",
-  "download": "https://github.com/TheArcaneWarloc/foundryvtt-5e-custom-currency/archive/refs/heads/FVTT-5e-custom-currency.zip"
+  "url": "https://github.com/TheArcaneWarloc/foundryvtt-5e-custom-currency",
+  "manifest": "https://raw.githubusercontent.com/TheArcaneWarloc/foundryvtt-5e-custom-currency/main/module.json",
+  "download": "https://github.com/TheArcaneWarloc/foundryvtt-5e-custom-currency/archive/refs/heads/main.zip"
 }
