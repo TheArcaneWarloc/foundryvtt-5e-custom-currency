@@ -7,9 +7,8 @@ Adjust currency name and conversion rates for 5th Edition D&D
 1. Open Foundry's Setup screen
 2. Switch to the "Add-On Modules" tab
 3. Click "Install Module"
-4. Paste `https://raw.githubusercontent.com/ktrieun/FVTT-5e-custom-currency/master/module.json` into the "Manifest URL" field
+4. Paste `https://raw.githubusercontent.com/TheArcaneWarloc/foundryvtt-5e-custom-currency/refs/heads/main/FVTT-5e-custom-currency/module.json` into the "Manifest URL" field
 5. Click "Install"
-
 ## Notes
 
 * On saving the settings, reopen any character sheets in order to update settings.
